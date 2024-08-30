@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Samuel Alejandro Manrique Mujica 
+I'm a Venezuelan programmer 🇻🇪 living in Mexico 🇲🇽 studding Software Engineering 👨‍💻 
+
+
 <!--
 **SamuelmamuU/SamuelmamuU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
